@@ -1,0 +1,7 @@
+#Visual Studio 缓存和编译输出
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.filters
+*.user
